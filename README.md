@@ -14,7 +14,6 @@ Hi! I'm Daniel Steven, usually go by Tipen. I'm a high school student from Jakar
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🧍‍♂️ Profile Views
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
